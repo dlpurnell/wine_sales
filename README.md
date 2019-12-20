@@ -1,5 +1,4 @@
-# wine_sales
-predict amount of wine to produce based on forecasted future sales
+## Predict Amount of Wine to Produce Based on Forecasted Future Sales
 
 Our analysis produced a Hurdle (Logistic+ Poisson) model that represents the number of cases of wine purchased by wine distribution companies after sampling a wine.
 
